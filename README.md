@@ -3,7 +3,7 @@
 <div align="center">
 
 
-<img src="" alt="Foto de Vinicius" width="300" height="300">
+<img src="./imagens/Imagem colada.png" alt="Foto de Vinicius" width="300" height="400">
 </div>
 
 ## Contatos
