@@ -3,7 +3,7 @@
 <div align="center">
 
 
-<img src="" alt="Foto de Vinicius" width="300" height="300">
+<img src="./imagens/Imagem colada.png" alt="Foto de Vinicius" width="300" height="400">
 </div>
 
 ## Contatos
@@ -43,7 +43,7 @@ Toda minha experiêcia prática vem da aproximação na qual a fatec nos possibi
 - Git <img align="center" alt="Git" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 **Conhecimentos que desejo aprimorar**:
-- Django, para melhorar minhas habilidades de desenvolvimento web em Python.
+- Cyber segurança, para melhorar a segurança e privacidade dos dados deminhas aplicações web.
 - Análise de dados, para aprimorar minhas habilidades com ferramentas de visualização e manipulação de dados.
 
 
@@ -61,11 +61,8 @@ Toda minha experiêcia prática vem da aproximação na qual a fatec nos possibi
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup)</br></br>
 
 <div align="center">
-
-
 <img src="./img/mvp-sprint4.gif" alt="aplicação rodando" width="600" height="450">
 </div>
-
 
 ### Tecnologias Utilizadas
 
@@ -103,5 +100,54 @@ Minhas principais contribuições no projeto foram:
 - **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
 - **Trabalho em equipe**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
 - **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
+
+</details>
+
+<details>
+<summary>2º Semestre</summary>
+</br>
+
+**Data:** *Fevereiro/2023*</br></br>
+**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Desafio:** Criar um sistema desktop com o intuito de gerenciar um fluxo escolar, baseado exigências e requisitos mínimos escolares.</br></br>
+**Solução:** Para resolver o problema sugerido, criamos uma interface intuitiva que realiza tudo que um professor precisa para genrenciar, tais como alunos, atividades e notas e tambem possibilita a vizualização de estatisticas baseadas nisso.</br></br>
+
+**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_2sem)</br></br>
+
+<div align="center">
+<img src="./img/mvp-sprint4.gif" alt="aplicação rodando" width="600" height="450">
+</div>
+
+### Tecnologias Utilizadas
+
+- **Java**: Linguagem utilizada para criar a lógica por trás de todo o sistema desktop.
+- **Java swing**: Responsável por criar as interfaces gráficas e torná-la viável para uso interativo.
+- **MySQL**: Banco de dados utilizado para armazenar todas as informações sobre os alunos e burocracias escolares.
+
+---
+
+### Contribuições Pessoais
+
+Minhas principais contribuições no projeto foram:
+
+- Essa foi a api que mais contribui em código, ajudando principalmente no protótipo e no desenvolvimento de toda a interface, no começo da segunda sprint mudamos de javafx para java swing, assim dificultando o processo de estilização, assim, focando mais na utilidade da interface do que na estilização em si.
+- Ajudei na construção do lógica por trás da base estatítica, definindo os parametros. 
+
+---
+
+### Hard Skills
+
+- **Java**: Desenvolvimento da lógica orientada a objetos.
+- **Java Swing**: Estilização e criação de componentes para interface.
+- **MySql**: Criação de um banco de dados relacional.
+
+---
+
+### Soft Skills
+
+- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
+- **Trabalho em equipe**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
+- **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
+- **Proatividade**: Tomei frente ao desenvolvimento e busquei me especializar naquilo para ajudar meu time.
 
 </details>
