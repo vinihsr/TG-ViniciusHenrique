@@ -113,6 +113,10 @@ Minhas principais contribuições no projeto foram:
 - **Trabalho em equipe**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
 - **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
 
+### Professores reponsáveis: 
+- **M2**: Jean
+- **P2**: Egydio
+
 </details>
 
 <details>
@@ -161,6 +165,10 @@ Minhas principais contribuições no projeto foram:
 - **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
 - **Proatividade**: Tomei frente ao desenvolvimento e busquei me especializar naquilo para ajudar meu time.
 
+### Professores reponsáveis: 
+- **M2**: Cláudio
+- **P2**: Bertoti
+
 </details>
 
 <details>
@@ -168,7 +176,7 @@ Minhas principais contribuições no projeto foram:
 </br>
 
 **Data:** *Agosto/2023*</br></br>
-**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Empresa:** *IONIC HEALTH*</br></br>
 **Desafio:** Criar uma plataaforma digital de trabalho, onde se pode gerenciar processos e procedimentos, além de se armmazenar informações e evidências.</br></br>
 **Solução:** Para resolver o problema sugerido, a plataforma foi criada pensando na facilidade e dinamicidade desses processos burocráticos empresariais. Imaginando a dificuldade de alguns funcionários ao precisaremusar um sistema complexo, o foco se manteve na experiência desse usuário para otimizar o rendimento.</br></br>
 
@@ -207,6 +215,10 @@ Minhas principais contribuições no projeto foram:
 - **Gestão de tempo**: Tentei aplicar técnicas de priorização, mas não consegui manter o foco nas tarefas críticas, o que levou a atrasos. Apesar de ajustar as prioridades, a equipe ainda enfrentou dificuldades para cumprir prazos.
 - **Resolução de problemas**: Enfrentei desafios técnicos inesperados e, apesar de encontrar algumas soluções, muitas vezes não explorei alternativas eficazes, o que comprometeu o andamento do projeto.
 
+### Professores reponsáveis: 
+- **M2**: Cláudio
+- **P2**: Masanori
+
 </details>
 
 <details>
@@ -214,7 +226,7 @@ Minhas principais contribuições no projeto foram:
 </br>
 
 **Data:** *Feveiro/2024*</br></br>
-**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Empresa:** *SIATT*</br></br>
 **Desafio:** Desenvolver uma aplicação que automatiza o agendamento de reuniões, integrando dados de diferentes fontes para gerenciar disponibilidades, formatos (presencial, online, híbrido) e níveis de permissão, além de gerar atas pré-preenchidas para otimizar o processo.</br></br>
 **Solução:** Para resolver o problema sugerido, a plataforma foi pensada na facilitação de agendamentos e execução de reuniões dentro de uma aplicação já definida à empresa, mantendo os usuários mais integrados aos processos.</br></br>
 
@@ -252,6 +264,10 @@ Minhas principais contribuições no projeto foram:
 - **Gestão de tempo**: Apliquei técnicas de priorização, como o método de matriz de Eisenhower, mas tive dificuldades em manter o foco nas tarefas mais críticas, resultando em atrasos em algumas entregas. Procurei ajustar a organização da equipe e reavaliar constantemente as prioridades para mitigar esses problemas.
 - **Resolução de problemas** – Identifiquei desafios técnicos inesperados ao longo do desenvolvimento. Consegui resolver a maioria deles com soluções funcionais, mas reconheço que poderia ter sido mais eficiente se tivesse solicitado ajuda ou explorado outras alternativas.
 - **Adaptabilidade**: Durante o projeto, enfrentei mudanças inesperadas nos requisitos e, inicialmente, tive dificuldades para me adaptar rapidamente, o que afetou o ritmo do desenvolvimento. Com o tempo, procurei ajustar a abordagem e adaptar a equipe às novas demandas, embora o impacto já tivesse sido sentido nas entregas.
+
+### Professores reponsáveis: 
+- **M2**: Sabha
+- **P2**: Juliana
 
 </details>
 
