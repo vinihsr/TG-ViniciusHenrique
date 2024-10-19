@@ -15,13 +15,13 @@
 
 ## Introdução
 
-Meu nome é Vinicius Henrique e sou estudante de analise e desenvolvimento de sistemas na fatec, onde atualmente curso o 5 semestre. O que me fez entrar para o curso de de ADS foi, primeiramente, a curiosidade e com um pouco de coragem fui sem pensar muito sobre as consequências e visando apreder sempre. Minha experiencia e paixão na area de tecnologia se iniciou junto a minha jornada acadêmica, sendo assim algo novo em minha vida, tanto pessoal como profissional, e claro, isso me possibilitou ter acesso à tecnologias e linguagens como python, java e typescript!
+Meu nome é Vinicius Henrique e sou estudante de analise e desenvolvimento de sistemas na fatec, onde atualmente curso o 5 semestre. O que me fez entrar para o curso de de ADS foi, primeiramente, a curiosidade, e com um pouco de coragem, fui sem pensar sobre as consequências. Minha experiencia e paixão na area de tecnologia se iniciou junto a minha jornada acadêmica, sendo assim algo novo em minha vida, tanto pessoal como profissional, e claro, isso me possibilitou ter acesso à tecnologias e linguagens como python, java e typescript!
 
-Toda minha experiêcia prática vem da aproximação na qual a fatec nos possibilita, no caso, com grandes empresas do mercado de  tecnologia. Essa aproximação ocorreu e ocorre através de api's (aprendizado por projetos integrados), onde cada semestre se torna uma jornada profissionalizante e nos deixa cada vez mais pertoo do mercado de trabalho.
+Toda minha experiêcia prática vem da aproximação na qual a fatec nos possibilita, no caso, com grandes empresas do mercado de tecnologia. Essa aproximação ocorreu e ocorre através de api's (aprendizado por projetos integrados), onde cada semestre se torna uma jornada profissionalizante e nos deixa cada vez mais integrado ao mercado de trabalho.
 
-Atualmente, mas especificamente dia 21/10/24, inicio meu estágio na dataside, uma grande empresa de consultoria, onde entrerei para DBA (banco de dados).
+Atualmente, mas especificamente dia 21/10/24, inicio meu estágio na dataside, uma grande empresa de consultoria, onde entrarei para DBA (banco de dados).
 
-## Meus Principais Conhecimentos
+### Meus Principais Conhecimentos
 #### Front-end
 - HTML5
 - CSS
@@ -54,6 +54,7 @@ Atualmente, mas especificamente dia 21/10/24, inicio meu estágio na dataside, u
 
 #### Outros
 - Linux
+
 
 **Conhecimentos que desejo aprimorar**:
 - Cyber segurança, para melhorar a segurança e privacidade dos dados de minhas aplicações web.
