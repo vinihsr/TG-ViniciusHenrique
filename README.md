@@ -66,10 +66,13 @@ Atualmente, mas especificamente dia 21/10/24, inicio meu estágio na dataside, u
 <summary>1º Semestre</summary>
 </br>
 
-**Data:** *Agosto/2022*</br></br>
-**Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br></br>
-**Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado</br></br>
+**Data:** *Agosto/2022*</br>
+**Empresa:** *FATEC São José dos Campos - SP*</br>
+**Professores reponsáveis:** 
+- **M2**: Jean
+- **P2**: Egydio
+**Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz. Pois havia uma falta de registros dos problemas em computadores dos nossos laboratórios.</br></br>
+**Solução:** Para resolver o problema sugerido, criamos uma aplicação web que mapea os laboratórios e facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup)</br></br>
 
@@ -110,24 +113,24 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
-- **Trabalho em equipe**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
-- **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
-
-### Professores reponsáveis: 
-- **M2**: Jean
-- **P2**: Egydio
+- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que as tasks fossem entregues de acordo com o prazo.
+- **Trabalho em equipe**: Atuei colaborativamente com o time, realizando entregas de valor para que o desenvolvimento do projeto fosse concluído.
+- **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum, ou seja, realizei todas as minhas tasks no prazo estimado.
 
 </details>
+
 
 <details>
 <summary>2º Semestre</summary>
 </br>
 
-**Data:** *Fevereiro/2023*</br></br>
-**Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Desafio:** Criar um sistema desktop com o intuito de gerenciar um fluxo escolar, baseado exigências e requisitos mínimos escolares.</br></br>
-**Solução:** Para resolver o problema sugerido, criamos uma interface intuitiva que realiza tudo que um professor precisa para gerenciar, tais como alunos, atividades e notas e tambem possibilita a vizualização de estatisticas baseadas nisso.</br></br>
+**Data:** *Fevereiro/2023*</br>
+**Empresa:** *FATEC São José dos Campos - SP*</br>
+**Professores reponsáveis:** 
+- **M2**: Cláudio
+- **P2**: Bertoti
+**Desafio:** Criar um sistema com o intuito de gerenciar um fluxo escolar, baseado exigências e requisitos mínimos escolares. Pois as escolas atuais e a suposta escola a qual criaríamos o software carecia de um sistema robusto e de fácil uso.</br></br>
+**Solução:** Para resolver o problema sugerido, criamos uma aplicação desktop intuitiva que realiza tudo que um professor precisa para gerenciar, tais como alunos, atividades e notas e tambem possibilita a vizualização de estatisticas baseadas nisso.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_2sem)</br></br>
   
@@ -146,14 +149,14 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Essa foi a api que mais contribui em código, ajudando principalmente no protótipo e no desenvolvimento de toda a interface, no começo da segunda sprint mudamos de javafx para java swing, assim dificultando o processo de estilização, assim, focando mais na utilidade da interface do que na estilização em si.
-- Ajudei na construção do lógica por trás da base estatítica, definindo os parametros. 
+- Ajudei principalmente no protótipo e no desenvolvimento de toda a interface, no começo da segunda sprint mudamos de javafx para java swing, assim dificultando o processo de estilização e focando mais na utilidade da interface do que na estilização em si.
+- Ajudei na construção da lógica por trás da base estatítica, definindo os parâmetros. 
 
 ---
 
 ### Hard Skills
 
-- **Java**: Desenvolvimento da lógica orientada a objetos. Proeficiência: 7/10
+- **Java**: Desenvolvimento da lógica orientada a objetos. Proeficiência: 6/10
 - **Java Swing**: Estilização e criação de componentes para interface. Proeficiência: 9/10
 - **MySql**: Criação de um banco de dados relacional. Proeficiência: 7/10
 
@@ -161,25 +164,25 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
-- **Trabalho em equipe**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
+- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os problemas como, por exemplo, os de compilação do código ou até nas entregas, fossem resolvidos.
+- **Trabalho em equipe**: Atuei de forma integrada ao time, garantindo que tudo fosse feito de maneira clara e de forma eficiente.
 - **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
-- **Proatividade**: Tomei frente ao desenvolvimento e busquei me especializar naquilo para ajudar meu time.
-
-### Professores reponsáveis: 
-- **M2**: Cláudio
-- **P2**: Bertoti
+- **Proatividade**: Tomei frente ao desenvolvimento da interface e busquei me especializar naquilo para ajudar meu time até o fim do projeto.
 
 </details>
+
 
 <details>
 <summary>3º Semestre</summary>
 </br>
 
-**Data:** *Agosto/2023*</br></br>
-**Empresa:** *IONIC HEALTH*</br></br>
-**Desafio:** Criar uma plataaforma digital de trabalho, onde se pode gerenciar processos e procedimentos, além de se armmazenar informações e evidências.</br></br>
-**Solução:** Para resolver o problema sugerido, a plataforma foi criada pensando na facilidade e dinamicidade desses processos burocráticos empresariais. Imaginando a dificuldade de alguns funcionários ao precisaremusar um sistema complexo, o foco se manteve na experiência desse usuário para otimizar o rendimento.</br></br>
+**Data:** *Agosto/2023*</br>
+**Empresa:** *IONIC HEALTH: é uma empresa especializada em inovação e transformação digital que traz soluções que automatizam, monitoram e teleoperam desde equipamentos de engenharia clínica até laudos e exames.*</br>
+**Professores reponsáveis:**
+- **M2**: Cláudio
+- **P2**: Masanori
+**Desafio:** Criar um sistema de trabalho, onde se pode gerenciar processos e procedimentos, além de se armazenar informações e evidências. Pois é difícil a manipulação de evidências e manutenção de informações.</br></br>
+**Solução:** Para resolver o problema sugerido, a plataforma web foi criada pensando na facilidade e dinamicidade desses processos burocráticos empresariais. Imaginando a dificuldade de alguns funcionários ao precisar usar um sistema complexo, o foco se manteve na experiência desse usuário para otimizar o rendimento.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_3sem)</br></br>
   
@@ -197,7 +200,8 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Essa foi uma api muito complicada para mim, ajudei pouquissimo e mais em ideais e apoio ao time de desenvolvimento... em quesito código, fiz algumas telas para contribuir com a interface.
+- Ajudei em ideais e apoio ao time de desenvolvimento.
+- Fiz algumas telas para contribuir com a tela home.
 
 ---
 
@@ -212,24 +216,23 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-- **Comunicação**: Durante o projeto, conduzi reuniões com a equipe, mas falhei em transmitir informações de forma clara, resultando em desalinhamentos nas expectativas. Busquei ser mais específico, mas a falta de feedback contínuo dificultou a correção.
 - **Gestão de tempo**: Tentei aplicar técnicas de priorização, mas não consegui manter o foco nas tarefas críticas, o que levou a atrasos. Apesar de ajustar as prioridades, a equipe ainda enfrentou dificuldades para cumprir prazos.
 - **Resolução de problemas**: Enfrentei desafios técnicos inesperados e, apesar de encontrar algumas soluções, muitas vezes não explorei alternativas eficazes, o que comprometeu o andamento do projeto.
 
-### Professores reponsáveis: 
-- **M2**: Cláudio
-- **P2**: Masanori
-
 </details>
+
 
 <details>
 <summary>4º Semestre</summary>
 </br>
 
-**Data:** *Feveiro/2024*</br></br>
-**Empresa:** *SIATT*</br></br>
-**Desafio:** Desenvolver uma aplicação que automatiza o agendamento de reuniões, integrando dados de diferentes fontes para gerenciar disponibilidades, formatos (presencial, online, híbrido) e níveis de permissão, além de gerar atas pré-preenchidas para otimizar o processo.</br></br>
-**Solução:** Para resolver o problema sugerido, a plataforma foi pensada na facilitação de agendamentos e execução de reuniões dentro de uma aplicação já definida à empresa, mantendo os usuários mais integrados aos processos.</br></br>
+**Data:** *Feveiro/2024*</br>
+**Empresa:** *SIATT: é uma empresa brasileira fundada em 2015 e localizada no Parque Tecnológico de São José dos Campos, São Paulo com foco no mercado de alta tecnologia, em especial o de defesa e aeroespacial.*</br>
+**Professores reponsáveis:** 
+- **M2**: Sabha
+- **P2**: Juliana
+**Desafio:** Desenvolver uma aplicação que automatiza o agendamento de reuniões, integrando dados de diferentes fontes para gerenciar disponibilidades, formatos (presencial, online, híbrido) e níveis de permissão, além de gerar atas pré-preenchidas para otimizar o processo. Precisava-se de um software com possibilidades de reunião e buscava facilidade na visualização e obtenção de dados.</br></br>
+**Solução:** Para resolver o problema sugerido, a plataforma web foi pensada na facilitação de agendamentos e execução de reuniões dentro de uma aplicação já definida à empresa, mantendo os usuários mais integrados aos processos e com uma melhor visualização.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
   
@@ -245,8 +248,8 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Ajudei na criação do protótipo e nas idéias por trás da entrega, definindo o MVP e ajudando na separação de tasks.
-- Criei algumas telas e as estilizei, mantendo a harmonia para o bom uso do usuário... 
+- Ajudei na criação do protótipo e nas idéias por trás das entregas, definindo o MVP e ajudando na separação de tasks.
+- Criei algumas telas e as estilizei, por exemplo, a tela de cadastro de reuniões.
 
 ---
 
@@ -266,9 +269,56 @@ Minhas principais contribuições no projeto foram:
 - **Resolução de problemas** – Identifiquei desafios técnicos inesperados ao longo do desenvolvimento. Consegui resolver a maioria deles com soluções funcionais, mas reconheço que poderia ter sido mais eficiente se tivesse solicitado ajuda ou explorado outras alternativas.
 - **Adaptabilidade**: Durante o projeto, enfrentei mudanças inesperadas nos requisitos e, inicialmente, tive dificuldades para me adaptar rapidamente, o que afetou o ritmo do desenvolvimento. Com o tempo, procurei ajustar a abordagem e adaptar a equipe às novas demandas, embora o impacto já tivesse sido sentido nas entregas.
 
-### Professores reponsáveis: 
-- **M2**: Sabha
-- **P2**: Juliana
-
 </details>
 
+
+<details>
+<summary>5º Semestre</summary>
+</br>
+
+**Data:** *Agosto/2024*</br>
+**Empresa:** *KERSYS: É uma empresa brasileira de desenvolvimento de softwares de gestão para a áreas florestais e do agronegócio.*</br>
+**Professores reponsáveis:** 
+- **M2**: Jean
+- **P2**: Gerson
+**Desafio:** Desenvolver um aplicativo para produtores rurais, com o objetivo de permitir o acompanhamento climático. O sistema deve possibilitar o cadastro de pontos de monitoramento, permitindo a visualização de gráficos sobre a pluviometria e temperatura dentro de um período determinado.</br></br>
+**Solução:** A solução foi um plataforma mobile voltada para o gerenciamento de pontos referenciados  geograficamente, com foco em cultivos ou áreas específicas. Oferece funcionalidades completas, como cadastro e autenticação de usuários, mapeamento e registro de coordenadas, histórico de dados em um dashboard, e personalização do perfil do usuário. Além disso, conta com notificações para manter os usuários atualizados em tempo real. A interface intuitiva visa facilitar o uso, promovendo eficiência e organização.</br></br>
+
+**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
+
+<div align="center">
+<img src="/imagens/gif-api-5.gif" alt="aplicação rodando" width="400" height=800">
+</div>
+  
+### Tecnologias Utilizadas
+
+- **Typescript**: Linguagem utilizada para desenvolver a aplicação.
+- **NodeJs**: Responsável por criar o servidor e como ambiente de execução.
+- **MySQL**: Banco de dados utilizado para armazenar todas as informações sensíveis.
+- **React Native**: Estrutura de software para desenvolver aplicativos móveis (mobile).
+- **Firebase**: Banco de dados não relacional, para dados específicos.
+- **Android Studio**: IDE utilizada para emular, testar e criar aplicativos android.
+  
+---
+
+### Contribuições Pessoais (Papel: Scrum master)
+
+Minhas principais contribuições no projeto foram:
+
+- Gerenciei as tasks e mantive o time em foco para as entregas.
+
+---
+
+### Hard Skills
+
+- **Jira**: Software para gerenciamento de projetos. Proeficiência: 9/10
+
+---
+
+### Soft Skills
+
+- **Comunicação**: Conduzi diversas reuniões com a equipe, e mesmo diante da falta de atenção de alguns membros consegui fazer com que o projeto tomasse um foco confortável a todos.
+- **Gestão de tempo**: Tive dificuldades em manter o foco do time nas tarefas mais críticas, resultando em atrasos em algumas entregas. Procurei ajustar a organização da equipe e reavaliar as prioridades.
+- **Resolução de problemas** – Busquei me relacionar mais com o time de desenvolvimento e P.O para tentar solucionar os atuais e possíveis futuros problemas.
+
+</details>
