@@ -281,7 +281,7 @@ Minhas principais contribuições no projeto foram:
 **Professores reponsáveis:** 
 - **M2**: Jean
 - **P2**: Gerson
-**Desafio:** Desenvolver um aplicativo para produtores rurais, com o objetivo de permitir o acompanhamento climático. O sistema deve possibilitar o cadastro de pontos de monitoramento, permitindo a visualização de gráficos sobre a pluviometria e temperatura dentro de um período determinado.</br></br>
+**Desafio:** O problema apresentado pelo cliente envolvia a dificuldade dos produtores rurais para monitorar as condições climáticas de suas áreas de cultivo e acompanhar as mudanças climáticas que afetavam diretamente a produtividade agrícola. O desafio consistia em desenvolver uma solução para monitoramento climático em áreas de cultivo, onde o cliente precisava visualizar informações sobre a variação de clima em tempo real, com notificações para condições extremas que poderiam afetar a lavoura.</br></br>
 **Solução:** A solução foi um plataforma mobile voltada para o gerenciamento de pontos referenciados  geograficamente, com foco em cultivos ou áreas específicas. Oferece funcionalidades completas, como cadastro e autenticação de usuários, mapeamento e registro de coordenadas, histórico de dados em um dashboard, e personalização do perfil do usuário. Além disso, conta com notificações para manter os usuários atualizados em tempo real. A interface intuitiva visa facilitar o uso, promovendo eficiência e organização.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
@@ -317,8 +317,8 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-- **Comunicação**: Conduzi diversas reuniões com a equipe, e mesmo diante da falta de atenção de alguns membros consegui fazer com que o projeto tomasse um foco confortável a todos.
-- **Gestão de tempo**: Tive dificuldades em manter o foco do time nas tarefas mais críticas, resultando em atrasos em algumas entregas. Procurei ajustar a organização da equipe e reavaliar as prioridades.
-- **Resolução de problemas** – Busquei me relacionar mais com o time de desenvolvimento e P.O para tentar solucionar os atuais e possíveis futuros problemas.
+- **Comunicação**: Conduzi diversas reuniões com a equipe, e mesmo diante da falta de atenção de alguns membros consegui fazer com que o projeto tomasse um foco confortável a todos, sem grandes problemas nos atingirem como time.
+- **Gestão de tempo**: Tive dificuldades em manter o foco do time nas tarefas mais críticas, resultando em atrasos em algumas entregas. Procurei ajustar a organização da equipe e reavaliar as prioridades para que as tasks do jira fossem atualizadas e condizentes com a realidade.
+- **Resolução de problemas** – Busquei me relacionar mais com o time de desenvolvimento e P.O para tentar solucionar os atuais e possíveis futuros problemas, assim não deixando que o time se restringir.
 
 </details>
