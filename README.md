@@ -71,7 +71,9 @@ Atualmente, mas especificamente dia 21/10/24, inicio meu estágio na dataside, u
 **Professores reponsáveis:** 
 - **M2**: Jean
 - **P2**: Egydio
-**Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz. Pois havia uma falta de registros dos problemas em computadores dos nossos laboratórios.</br></br>
+
+**Problema:** Um ambiente academico onde contem inumeros laboratórios precisa de uma forma de saber quais computadores estão com a execução debilitada, saber quais os problemas, e o tecnico precisa informar quais computadores estão em manutenção, quais ja estão restaurados, tudo isso de uma forma visual e fluida.</br></br>
+**Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br></br>
 **Solução:** Para resolver o problema sugerido, criamos uma aplicação web que mapea os laboratórios e facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup)</br></br>
@@ -94,9 +96,8 @@ Atualmente, mas especificamente dia 21/10/24, inicio meu estágio na dataside, u
 
 Minhas principais contribuições no projeto foram:
 
-- Como esse foi meu primeiro projeto que atingiu essa escala, apenas realizei a construção de algumas telas e na estilização da aplicação! influenciando também na estrutura dos laboratórios e nos objetivos finais.
-- Ajudei também na documentação dos laboratórios com o intuito de mapeá-los para o drag-and-drop de organização. 
-
+- Criei diversas telas da aplicação, incluindo a tela home, e foquei na estilização completa, priorizando a responsividade para diferentes dispositivos. Isso garantiu uma experiência consistente e adaptada a smartphones, tablets e desktops. O trabalho também influenciou a estrutura dos laboratórios, alinhando o design e a funcionalidade aos objetivos finais do projeto.
+- Contribuí para a documentação dos laboratórios, detalhando suas funcionalidades e características para facilitar o entendimento e uso. Esse mapeamento foi essencial para implementar um sistema de drag-and-drop eficiente, otimizando a organização e gestão dinâmica dos laboratórios.
 
 ---
 
@@ -107,15 +108,15 @@ Minhas principais contribuições no projeto foram:
 - **JavaScript**: Criação de interatividade e funcionalidades dinâmicas na aplicação. Proeficiência: 4/10
 - **Flask**: Implementação de rotas e APIs para comunicação entre o frontend e o backend. Proeficiência: 5/10
 - **MySQL**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados. Proeficiência: 6/10
-- **AWS**: Implementação de soluções escaláveis na nuvem. Proeficiência: 2/10
+- **AWS**: Implementação de soluções escaláveis na nuvem. Proeficiência: 4/10
 
 ---
 
 ### Soft Skills
 
-- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que as tasks fossem entregues de acordo com o prazo.
-- **Trabalho em equipe**: Atuei colaborativamente com o time, realizando entregas de valor para que o desenvolvimento do projeto fosse concluído.
-- **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum, ou seja, realizei todas as minhas tasks no prazo estimado.
+- **Comunicação**: Realizei reuniões frequentes com a equipe para alinhar expectativas, discutir o desenvolvimento das telas e ajustar a organização dos laboratórios. Garanti que todos estivessem sincronizados, promovendo um ambiente de troca de ideias e resolução ágil de problemas.
+- **Trabalho em equipe**: Contribuí de forma colaborativa no desenvolvimento das telas e na documentação dos laboratórios, agregando valor às entregas do time. Essa parceria foi essencial para alinhar as diferentes partes do sistema e atingir os objetivos do projeto.
+- **Gestão de tempo**: Priorizei tarefas importantes, como o desenvolvimento das telas e o mapeamento dos laboratórios, para entregá-las no prazo. Meu planejamento garantiu a conclusão das funcionalidades críticas sem atrasos e alinhada ao cronograma Scrum.
 
 </details>
 
@@ -129,7 +130,9 @@ Minhas principais contribuições no projeto foram:
 **Professores reponsáveis:** 
 - **M2**: Cláudio
 - **P2**: Bertoti
-**Desafio:** Criar um sistema com o intuito de gerenciar um fluxo escolar, baseado exigências e requisitos mínimos escolares. Pois as escolas atuais e a suposta escola a qual criaríamos o software carecia de um sistema robusto e de fácil uso.</br></br>
+  
+**Problema:** Um professor enfrentava um problema no gerenciamento de turmas e alunos nas atividades escolares. O portal disponibilizado era limitado e instável, tornando desafiador para o professor acompanhar o desempenho dos alunos de forma eficiente, afetando a organização e o acompanhamento do ensino.</br></br>
+**Desafio:** O desafio proposto envolvia a necessidade de disponibilizar ao professor um aplicativo desktop em Java, que permitisse o gerenciamento eficiente das turmas e alunos de uma escola.</br></br>
 **Solução:** Para resolver o problema sugerido, criamos uma aplicação desktop intuitiva que realiza tudo que um professor precisa para gerenciar, tais como alunos, atividades e notas e tambem possibilita a vizualização de estatisticas baseadas nisso.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_2sem)</br></br>
@@ -149,8 +152,8 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Ajudei principalmente no protótipo e no desenvolvimento de toda a interface, no começo da segunda sprint mudamos de javafx para java swing, assim dificultando o processo de estilização e focando mais na utilidade da interface do que na estilização em si.
-- Ajudei na construção da lógica por trás da base estatítica, definindo os parâmetros. 
+- Contribuí no protótipo e no desenvolvimento da interface, inicialmente utilizando JavaFX. Na segunda sprint, a transição para Java Swing trouxe o desafio de adaptar o design, priorizando a funcionalidade sobre a estilização. Esse foco garantiu que a interface atendesse às necessidades do projeto.
+- Ajudei na construção da lógica da base estatística, definindo parâmetros essenciais para sua funcionalidade. Meu trabalho assegurou que a estrutura de dados fosse precisa e eficiente, possibilitando análises consistentes e alinhadas aos objetivos do sistema.
 
 ---
 
@@ -164,10 +167,10 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os problemas como, por exemplo, os de compilação do código ou até nas entregas, fossem resolvidos.
-- **Trabalho em equipe**: Atuei de forma integrada ao time, garantindo que tudo fosse feito de maneira clara e de forma eficiente.
-- **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
-- **Proatividade**: Tomei frente ao desenvolvimento da interface e busquei me especializar naquilo para ajudar meu time até o fim do projeto.
+- **Comunicação**: Realizei reuniões constantes com a equipe para alinhar expectativas e solucionar problemas, como erros de compilação e desafios nas entregas. Essa interação garantiu que o trabalho fluísse de forma eficaz e colaborativa.
+- **Trabalho em equipe**: Colaborei ativamente com o time, assegurando clareza e eficiência nas entregas. Essa integração foi fundamental para superar desafios e cumprir os objetivos do projeto de forma alinhada.
+- **Gestão de tempo**: Priorizei as tarefas críticas, como a interface e a lógica estatística, para garantir que fossem entregues no prazo estipulado. Meu planejamento contribuiu para o cumprimento do cronograma Scrum.
+- **Proatividade**: Assumi a liderança no desenvolvimento da interface e me aprofundei no tema para apoiar o time até a conclusão do projeto. Minha iniciativa foi essencial para a evolução do trabalho coletivo.
 
 </details>
 
@@ -181,7 +184,9 @@ Minhas principais contribuições no projeto foram:
 **Professores reponsáveis:**
 - **M2**: Cláudio
 - **P2**: Masanori
-**Desafio:** Criar um sistema de trabalho, onde se pode gerenciar processos e procedimentos, além de se armazenar informações e evidências. Pois é difícil a manipulação de evidências e manutenção de informações.</br></br>
+  
+**Problema:** A Ionic Health apresentava dificuldades para rastrear e gerenciar suas atividades de forma eficiente, portanto, precisava de uma plataforma que organizasse e documentasse os processos regulatórios da empresa.</br></br>
+**Desafio:** O desafio proposto envolvia a necessidade de disponibilizar uma plataforma web unificada que permitisse à empresa gerenciar, monitorar e documentar cada etapa de seus processos regulatórios.</br></br>
 **Solução:** Para resolver o problema sugerido, a plataforma web foi criada pensando na facilidade e dinamicidade desses processos burocráticos empresariais. Imaginando a dificuldade de alguns funcionários ao precisar usar um sistema complexo, o foco se manteve na experiência desse usuário para otimizar o rendimento.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_3sem)</br></br>
@@ -200,8 +205,8 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Ajudei em ideais e apoio ao time de desenvolvimento.
-- Fiz algumas telas para contribuir com a tela home.
+- Contribuí ativamente com sugestões e feedbacks que auxiliaram na tomada de decisões do time de desenvolvimento. Meu apoio foi fundamental para alinhar as estratégias do projeto e resolver desafios técnicos.
+- Participei da criação de telas importantes para a aplicação, incluindo contribuições específicas para a construção da tela home, por exemplo a tela de login. Meu trabalho ajudou a estruturar a interface e a melhorar a usabilidade do sistema.
 
 ---
 
@@ -216,8 +221,8 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-- **Gestão de tempo**: Tentei aplicar técnicas de priorização, mas não consegui manter o foco nas tarefas críticas, o que levou a atrasos. Apesar de ajustar as prioridades, a equipe ainda enfrentou dificuldades para cumprir prazos.
-- **Resolução de problemas**: Enfrentei desafios técnicos inesperados e, apesar de encontrar algumas soluções, muitas vezes não explorei alternativas eficazes, o que comprometeu o andamento do projeto.
+- **Gestão de tempo**: Embora tenha tentado aplicar técnicas de priorização, enfrentei dificuldades em manter o foco nas tarefas críticas, o que resultou em alguns atrasos. Ajustei as prioridades conforme necessário, mas a equipe ainda teve desafios para cumprir os prazos estabelecidos.
+- **Resolução de problemas**: Enfrentei desafios técnicos imprevistos e, embora tenha encontrado algumas soluções, não explorei alternativas eficazes o suficiente. Isso impactou o andamento do projeto, comprometendo a eficiência e a entrega dentro do cronograma.
 
 </details>
 
@@ -231,7 +236,9 @@ Minhas principais contribuições no projeto foram:
 **Professores reponsáveis:** 
 - **M2**: Sabha
 - **P2**: Juliana
-**Desafio:** Desenvolver uma aplicação que automatiza o agendamento de reuniões, integrando dados de diferentes fontes para gerenciar disponibilidades, formatos (presencial, online, híbrido) e níveis de permissão, além de gerar atas pré-preenchidas para otimizar o processo. Precisava-se de um software com possibilidades de reunião e buscava facilidade na visualização e obtenção de dados.</br></br>
+  
+**Problema:** A empresa precisava lidar com equipes cada vez maiores no contexto pós-pandemia e apresentava dificuldades para coordenar o agendamento de reuniões. A falta de uma plataforma unificada para o gerenciamento das reuniões resultava em desorganização e tempo excessivo gasto em processos manuais.</br></br>
+**Desafio:** O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.</br></br>
 **Solução:** Para resolver o problema sugerido, a plataforma web foi pensada na facilitação de agendamentos e execução de reuniões dentro de uma aplicação já definida à empresa, mantendo os usuários mais integrados aos processos e com uma melhor visualização.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
@@ -248,8 +255,8 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Ajudei na criação do protótipo e nas idéias por trás das entregas, definindo o MVP e ajudando na separação de tasks.
-- Criei algumas telas e as estilizei, por exemplo, a tela de cadastro de reuniões.
+- Contribuí na criação do protótipo, trazendo ideias para o desenvolvimento do produto. Auxiliei na definição do MVP e na separação das tasks, garantindo que o projeto fosse estruturado e que as prioridades estivessem claras desde o início.
+- Participei da criação e estilização de algumas telas, como a tela de cadastro de reuniões. Meu trabalho focou em garantir que as interfaces fossem funcionais e visualmente atraentes, melhorando a experiência do usuário.
 
 ---
 
@@ -264,9 +271,9 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe, mas percebi que houve falhas na clareza da comunicação, resultando em desalinhamentos. Busquei ser mais claro nas diretrizes e abrir espaço para feedbacks, ajustando o curso conforme necessário.
-- **Gestão de tempo**: Apliquei técnicas de priorização, como o método de matriz de Eisenhower, mas tive dificuldades em manter o foco nas tarefas mais críticas, resultando em atrasos em algumas entregas. Procurei ajustar a organização da equipe e reavaliar constantemente as prioridades para mitigar esses problemas.
-- **Resolução de problemas** – Identifiquei desafios técnicos inesperados ao longo do desenvolvimento. Consegui resolver a maioria deles com soluções funcionais, mas reconheço que poderia ter sido mais eficiente se tivesse solicitado ajuda ou explorado outras alternativas.
+- **Comunicação**: Durante o projeto, conduzi reuniões com a equipe, mas identifiquei falhas na clareza da comunicação, o que causou desalinhamentos. Busquei melhorar a clareza das diretrizes e abrir espaço para feedbacks, ajustando a abordagem conforme necessário.
+- **Gestão de tempo**: Utilizei técnicas como a matriz de Eisenhower para priorizar tarefas, mas enfrentei dificuldades em focar nas atividades críticas, resultando em atrasos. Ajustei a organização da equipe e reavaliei as prioridades para minimizar os impactos.
+- **Resolução de problemas** – Identifiquei desafios técnicos inesperados e, embora tenha resolvido a maioria com soluções adequadas, percebo que poderia ter sido mais eficiente ao buscar ajuda ou explorar alternativas. Isso teria acelerado o processo de resolução.
 - **Adaptabilidade**: Durante o projeto, enfrentei mudanças inesperadas nos requisitos e, inicialmente, tive dificuldades para me adaptar rapidamente, o que afetou o ritmo do desenvolvimento. Com o tempo, procurei ajustar a abordagem e adaptar a equipe às novas demandas, embora o impacto já tivesse sido sentido nas entregas.
 
 </details>
@@ -281,7 +288,9 @@ Minhas principais contribuições no projeto foram:
 **Professores reponsáveis:** 
 - **M2**: Jean
 - **P2**: Gerson
-**Desafio:** O problema apresentado pelo cliente envolvia a dificuldade dos produtores rurais para monitorar as condições climáticas de suas áreas de cultivo e acompanhar as mudanças climáticas que afetavam diretamente a produtividade agrícola. O desafio consistia em desenvolver uma solução para monitoramento climático em áreas de cultivo, onde o cliente precisava visualizar informações sobre a variação de clima em tempo real, com notificações para condições extremas que poderiam afetar a lavoura.</br></br>
+  
+**Problema:** O problema apresentado pelo cliente envolvia a dificuldade dos produtores rurais para monitorar as condições climáticas de suas áreas de cultivo e acompanhar as mudanças climáticas que afetavam diretamente a produtividade agrícola.</br></br>
+**Desafio:** O desafio consistia em desenvolver uma solução para monitoramento climático em áreas de cultivo, onde o cliente precisava visualizar informações sobre a variação de clima em tempo real, com notificações para condições extremas que poderiam afetar a lavoura.</br></br>
 **Solução:** A solução foi um plataforma mobile voltada para o gerenciamento de pontos referenciados  geograficamente, com foco em cultivos ou áreas específicas. Oferece funcionalidades completas, como cadastro e autenticação de usuários, mapeamento e registro de coordenadas, histórico de dados em um dashboard, e personalização do perfil do usuário. Além disso, conta com notificações para manter os usuários atualizados em tempo real. A interface intuitiva visa facilitar o uso, promovendo eficiência e organização.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
@@ -305,7 +314,7 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Gerenciei as tasks e mantive o time em foco para as entregas.
+- Gerenciei as tasks do time, utilizando o JIRA Software para organizar, priorizar e acompanhar o progresso das atividades. Minha função foi manter todos focados nas entregas e assegurar que os prazos fossem cumpridos. Trabalhei para resolver obstáculos de forma rápida, ajustando as prioridades conforme necessário. O uso do JIRA permitiu uma visão clara do andamento do projeto, facilitando a comunicação e a colaboração. Além disso, garanti que as responsabilidades fossem bem distribuídas para otimizar o fluxo de trabalho. Essa gestão foi essencial para a conclusão bem-sucedida do projeto dentro do prazo.
 
 ---
 
@@ -317,8 +326,8 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-- **Comunicação**: Conduzi diversas reuniões com a equipe, e mesmo diante da falta de atenção de alguns membros consegui fazer com que o projeto tomasse um foco confortável a todos, sem grandes problemas nos atingirem como time.
-- **Gestão de tempo**: Tive dificuldades em manter o foco do time nas tarefas mais críticas, resultando em atrasos em algumas entregas. Procurei ajustar a organização da equipe e reavaliar as prioridades para que as tasks do jira fossem atualizadas e condizentes com a realidade.
-- **Resolução de problemas** – Busquei me relacionar mais com o time de desenvolvimento e P.O para tentar solucionar os atuais e possíveis futuros problemas, assim não deixando que o time se restringir.
+- **Comunicação**: Conduzi reuniões com a equipe, conseguindo manter o foco do projeto mesmo com a falta de atenção de alguns membros. Busquei garantir que o time tivesse um direcionamento confortável, evitando que os problemas se acumulassem e afetassem o progresso.
+- **Gestão de tempo**: Tive dificuldades em manter o time focado nas tarefas críticas, o que resultou em alguns atrasos. Reavaliei constantemente as prioridades e ajustei a organização do time para que as tasks no JIRA estivessem atualizadas e alinhadas com a realidade do projeto.
+- **Resolução de problemas** – Procurando melhorar a interação com o time de desenvolvimento e o P.O., trabalhei para identificar e resolver problemas, tanto os existentes quanto os potenciais. Essa aproximação ajudou a evitar bloqueios e a manter o fluxo de trabalho sem grandes restrições.
 
 </details>
