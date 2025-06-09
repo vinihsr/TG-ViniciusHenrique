@@ -348,7 +348,7 @@ Minhas principais contribuições no projeto foram:
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_6sem)</br></br>
 
 <div align="center">
-<img src="/imagens/api-6.gif" alt="aplicação rodando" width="400" height=800">
+<img src="/imagens/api_6.gif" alt="aplicação rodando" width="800" height=400">
 </div>
   
 ### Tecnologias Utilizadas
