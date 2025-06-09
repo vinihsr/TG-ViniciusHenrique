@@ -293,7 +293,7 @@ Minhas principais contribuições no projeto foram:
 **Desafio:** O desafio consistia em desenvolver uma solução para monitoramento climático em áreas de cultivo, onde o cliente precisava visualizar informações sobre a variação de clima em tempo real, com notificações para condições extremas que poderiam afetar a lavoura.</br></br>
 **Solução:** A solução foi um plataforma mobile voltada para o gerenciamento de pontos referenciados  geograficamente, com foco em cultivos ou áreas específicas. Oferece funcionalidades completas, como cadastro e autenticação de usuários, mapeamento e registro de coordenadas, histórico de dados em um dashboard, e personalização do perfil do usuário. Além disso, conta com notificações para manter os usuários atualizados em tempo real. A interface intuitiva visa facilitar o uso, promovendo eficiência e organização.</br></br>
 
-**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
+**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_5sem)</br></br>
 
 <div align="center">
 <img src="/imagens/gif-api-5.gif" alt="aplicação rodando" width="400" height=800">
@@ -329,5 +329,69 @@ Minhas principais contribuições no projeto foram:
 - **Comunicação**: Conduzi reuniões com a equipe, conseguindo manter o foco do projeto mesmo com a falta de atenção de alguns membros. Busquei garantir que o time tivesse um direcionamento confortável, evitando que os problemas se acumulassem e afetassem o progresso.
 - **Gestão de tempo**: Tive dificuldades em manter o time focado nas tarefas críticas, o que resultou em alguns atrasos. Reavaliei constantemente as prioridades e ajustei a organização do time para que as tasks no JIRA estivessem atualizadas e alinhadas com a realidade do projeto.
 - **Resolução de problemas** – Procurando melhorar a interação com o time de desenvolvimento e o P.O., trabalhei para identificar e resolver problemas, tanto os existentes quanto os potenciais. Essa aproximação ajudou a evitar bloqueios e a manter o fluxo de trabalho sem grandes restrições.
+
+</details>
+
+<details>
+<summary>6º Semestre</summary>
+</br>
+
+**Data:** *Fevereiro/2025*</br>
+**Empresa:** *DOM ROCK: É uma empresa de tecnologia para alta produtividade e agilidade nas decisões operacionais e estratégicas das organizações através da poderosa combinação de algoritmos de inteligência artificial, modelos complexos e arquitetura de datalake.*</br>
+**Professores reponsáveis:** 
+- **M2**: Eduardo Sakaue
+- **P2**: Walmir
+
+**Desafio:** O desafio da Dom Rock consiste em criar uma aplicação web para avaliação de respostas de LLMs, visando aprimorar o retreinamento desses modelos por meio de feedback humano. A aplicação deve permitir o envio de um prompt para dois LLMs via API simultaneamente, apresentar as duas respostas obtidas e permitir que o usuário avalie cada resposta e compare-as, justificando qual foi a melhor. Todas essas informações deverão ser gravadas em um banco de dados para futuros retreinamentos dos LLMs.</br></br>
+**Solução:** A solução na qual o time chegou foi um plataforma com uma interface para conversa (chat) com dois LLMs em simultâneo, além da funcionalidade de avaliação de cada resposta e uma tela de dashboard onde são apresentados os gráficos de comparativo entre modelos e de tempo de resposta de cada modelo.</br></br>
+
+**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_6sem)</br></br>
+
+<div align="center">
+<img src="/imagens/api-6.gif" alt="aplicação rodando" width="400" height=800">
+</div>
+  
+### Tecnologias Utilizadas
+
+| Nome         | Descrição                                                               |
+|--------------|-------------------------------------------------------------------------|
+| Vue.js       | Framework progressivo para a construção de interfaces de usuário. |
+| Spring Boot  | Framework para facilitar a criação de aplicações Java autônomas e baseadas em microserviços. |
+| Python       | Linguagem de programação de alto nível, amplamente usada para desenvolvimento web, análise de dados e inteligência artificial. |
+| FastAPI      | Moderno framework web para a construção de APIs com Python, baseado em tipos padrão do Python. |
+| LangChain    | Framework para o desenvolvimento de aplicações alimentadas por grandes modelos de linguagem (LLMs). |
+| Groq         | Plataforma de inferência para LLMs que oferece desempenho de baixa latência. |
+| Qwen         | Família de modelos de linguagem grandes de código aberto, desenvolvidos pelo Alibaba Cloud. |
+| DeepSeek     | Modelos de linguagem grandes de código aberto para uma variedade de tarefas. |
+| MongoDB      | Banco de dados NoSQL orientado a documentos, projetado para escalabilidade e agilidade no desenvolvimento. |
+| ChromaDB | Banco de dados de vetores de código aberto, ideal para aplicações de IA. |
+  
+---
+
+### Contribuições Pessoais (Papel: Desenvolvedor)
+
+- Esquematização e definição do Banco de dados NoSQL (MongoDb).
+
+- Implementação da funcionalidade de Streaming Response para lidar com as LLM’s.
+
+- Definição de rotas condizentes com o RLHF e para uso dos gráficos do frontend.
+
+---
+
+### Hard Skills
+
+- Integração com APIs de modelos de IA. Proeficiência: 7/10
+
+- Desenvolvimento com Spring Boot e Vue.js. Proeficiência: 8/10
+
+- Uso de banco de dados MongoDB. Proeficiência: 9/10
+
+---
+
+### Soft Skills
+
+- **Resolução de Problemas**: Demonstrei forte capacidade ao esquematizar e definir o MongoDB, tomando decisões sobre o modelo de dados para escalabilidade. Na implementação do Streaming Response para LLMs, solucionei desafios de latência e otimização, e na definição de rotas API para RLHF e frontend, preveni bloqueios e acelerei integrações.
+- **Organização Técnica**: Minha experiência em organização se traduziu na esquematização do MongoDB, garantindo uma estrutura de dados robusta para futuras expansões. A implementação do Streaming Response exigiu um planejamento cuidadoso do escopo técnico, assegurando performance e entrega eficiente.
+- **Colaboração e Comunicação Técnica** – Facilitei a comunicação entre equipes ao definir as rotas API para RLHF e gráficos do frontend, traduzindo requisitos de negócio em especificações técnicas claras. Essa colaboração ativa alinhou expectativas e minimizou mal-entendidos, mantendo o foco do projeto. 
 
 </details>
