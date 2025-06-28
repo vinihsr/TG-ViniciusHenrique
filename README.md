@@ -84,11 +84,13 @@ Atualmente, mas especificamente dia 21/10/24, inicio meu estágio na dataside, u
 
 ### Tecnologias Utilizadas
 
-- **HTML5 & CSS**: Utilizados para criar uma interface web intuitiva e responsiva, que facilita a navegação e uso da aplicação pelos técnicos.
-- **JavaScript**: Responsável por tornar a aplicação interativa, oferecendo funcionalidades dinâmicas como o drag and drop para reorganizar os computadores.
-- **Flask**: Utilizado no backend para gerenciamento das requisições, integração com o banco de dados e execução das funcionalidades principais da aplicação.
-- **MySQL**: Banco de dados utilizado para armazenar todas as informações sobre os chamados técnicos, o estado das máquinas e o histórico de manutenção.
-- **AWS**: Plataforma na nuvem que hospeda a aplicação, garantindo sua escalabilidade e segurança.
+| Nome         | Descrição                                                               |
+|----------------|-------------------------------------------------------------------------|
+| HTML5 & CSS     | Utilizados para criar uma interface web intuitiva e responsiva, que facilita a navegação e uso da aplicação pelos técnicos. |
+| JavaScript         |  Responsável por tornar a aplicação interativa, oferecendo funcionalidades dinâmicas como o drag and drop para reorganizar os computadores. |
+| Flask          | Utilizado no backend para gerenciamento das requisições, integração com o banco de dados e execução das funcionalidades principais da aplicação. |
+| MySQL   | Banco de dados utilizado para armazenar todas as informações sobre os chamados técnicos, o estado das máquinas e o histórico de manutenção. |
+| AWS       | Plataforma na nuvem que hospeda a aplicação, garantindo sua escalabilidade e segurança. |
 
 ---
 
@@ -142,9 +144,11 @@ Minhas principais contribuições no projeto foram:
 
 ### Tecnologias Utilizadas
 
-- **Java**: Linguagem utilizada para criar a lógica por trás de todo o sistema desktop.
-- **Java swing**: Responsável por criar as interfaces gráficas e torná-la viável para uso interativo.
-- **MySQL**: Banco de dados utilizado para armazenar todas as informações sobre os alunos e burocracias escolares.
+| Nome         | Descrição                                                               |
+|----------------|-------------------------------------------------------------------------|
+| Java           | Linguagem utilizada para criar a lógica por trás de todo o sistema desktop. |
+| Java Swing     | Responsável por criar as interfaces gráficas e torná-la viável para uso interativo. |
+| MySQL          | Banco de dados utilizado para armazenar todas as informações sobre os alunos e burocracias escolares. |
 
 ---
 
@@ -195,10 +199,13 @@ Minhas principais contribuições no projeto foram:
 
 ### Tecnologias Utilizadas
 
-- **Typescript**: Linguagem utilizada para desenvolver a aplicação.
-- **NodeJs**: Responsável por criar o servidor e como ambiente de execução.
-- **MySQL**: Banco de dados utilizado para armazenar todas as informações sobre as evidências, usuários e processos.
-- **React**: Biblioteca de javascript para estilizar e componentizar a interface.
+| Nome         | Descrição                                                               |
+|----------------|-------------------------------------------------------------------------|
+| Typescript     | Linguagem utilizada para desenvolver a aplicação. |
+| NodeJs         | Responsável por criar o servidor e como ambiente de execução. |
+| MySQL          | Banco de dados utilizado para armazenar todas as informações sobre as evidências, usuários e processos. |
+| React          | Biblioteca de javascript para estilizar e componentizar a interface. |
+
 ---
 
 ### Contribuições Pessoais
@@ -245,10 +252,13 @@ Minhas principais contribuições no projeto foram:
   
 ### Tecnologias Utilizadas
 
-- **Typescript**: Linguagem utilizada para desenvolver a aplicação.
-- **NodeJs**: Responsável por criar o servidor e como ambiente de execução.
-- **MySQL**: Banco de dados utilizado para armazenar todas as informações sobre os usuários e histórico de reuniões.
-- **React**: Biblioteca de javascript para estilizar e componentizar a interface.
+| Nome         | Descrição                                                               |
+|----------------|-------------------------------------------------------------------------|
+| Typescript     | Linguagem utilizada para desenvolver a aplicação. |
+| NodeJs         | Responsável por criar o servidor e como ambiente de execução. |
+| MySQL          | Banco de dados utilizado para armazenar todas as informações sobre os usuários e histórico de reuniões. |
+| React          | Biblioteca de javascript para estilizar e componentizar a interface. |
+  
 ---
 
 ### Contribuições Pessoais
@@ -301,12 +311,14 @@ Minhas principais contribuições no projeto foram:
   
 ### Tecnologias Utilizadas
 
-- **Typescript**: Linguagem utilizada para desenvolver a aplicação.
-- **NodeJs**: Responsável por criar o servidor e como ambiente de execução.
-- **MySQL**: Banco de dados utilizado para armazenar todas as informações sensíveis.
-- **React Native**: Estrutura de software para desenvolver aplicativos móveis (mobile).
-- **Firebase**: Banco de dados não relacional, para dados específicos.
-- **Android Studio**: IDE utilizada para emular, testar e criar aplicativos android.
+| Nome         | Descrição                                                               |
+|----------------|-------------------------------------------------------------------------|
+| Typescript     | Linguagem utilizada para desenvolver a aplicação. |
+| NodeJs         | Responsável por criar o servidor e como ambiente de execução. |
+| MySQL          | Banco de dados utilizado para armazenar todas as informações sensíveis. |
+| React Native   | Estrutura de software para desenvolver aplicativos móveis (mobile). |
+| Firebase       | Banco de dados não relacional, para dados específicos. |
+| Android Studio | IDE utilizada para emular, testar e criar aplicativos android. |
   
 ---
 
@@ -345,7 +357,7 @@ Minhas principais contribuições no projeto foram:
 **Desafio:** O desafio da Dom Rock consiste em criar uma aplicação web para avaliação de respostas de LLMs, visando aprimorar o retreinamento desses modelos por meio de feedback humano. A aplicação deve permitir o envio de um prompt para dois LLMs via API simultaneamente, apresentar as duas respostas obtidas e permitir que o usuário avalie cada resposta e compare-as, justificando qual foi a melhor. Todas essas informações deverão ser gravadas em um banco de dados para futuros retreinamentos dos LLMs.</br></br>
 **Solução:** A solução na qual o time chegou foi um plataforma com uma interface para conversa (chat) com dois LLMs em simultâneo, além da funcionalidade de avaliação de cada resposta e uma tela de dashboard onde são apresentados os gráficos de comparativo entre modelos e de tempo de resposta de cada modelo.</br></br>
 
-**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_6sem)</br></br>
+**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_6_Semestre)</br></br>
 
 <div align="center">
 <img src="/imagens/api_6.gif" alt="aplicação rodando" width="800" height=400">
