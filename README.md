@@ -307,7 +307,7 @@ Jean Carlos Lourenço Costa
 - **Solução:** A solução foi um plataforma mobile voltada para o gerenciamento de pontos referenciados  geograficamente, com foco em cultivos ou áreas específicas. Oferece funcionalidades completas, como cadastro e autenticação de usuários, mapeamento e registro de coordenadas, histórico de dados em um dashboard, e personalização do perfil do usuário. Além disso, conta com notificações para manter os usuários atualizados em tempo real. A interface intuitiva visa facilitar o uso, promovendo eficiência e organização.</br>
 
 **Para mais informações**:
-[mirageGroup](https://github.com/MirageGroup/API_MirageGroup_5sem)</br></br>
+[mirageGroup](https://github.com/MirageGroup/API_MirageGroup_5_Semestre)</br></br>
 
 <div align="center">
 <img src="/imagens/gif-api-5.gif" alt="aplicação rodando" width="400" height=800">
